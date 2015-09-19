@@ -3,8 +3,8 @@
   Turns the Snap Circuit LED on and off repeatedly.
 
   Daniel Porrey
-  Snap Circuits - Experiment 1
-  https://www.hackster.io/porrey/snapcircuits-exp1
+  Snap Circuits IoT - Project 1
+  https://www.hackster.io/porrey/snapcircuits-prj1
   
 */
 
