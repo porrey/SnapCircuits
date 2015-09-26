@@ -3,8 +3,8 @@
   Turns the Snap Circuit LED on and off repeatedly.
 
   Daniel Porrey
-  Snap Circuits IoT - Project 1
-  https://www.hackster.io/porrey/snapcircuits-prj1
+  Snap Circuits - Blinking LED
+  https://www.hackster.io/porrey/sc-blinkingled
   
 */
 

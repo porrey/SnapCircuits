@@ -4,13 +4,13 @@
   detects when it was pushed.
 
   Daniel Porrey
-  Snap Circuits IoT - Project 2
-  https://www.hackster.io/porrey/snapcircuits-prj2
+  Snap Circuits - Push Button Monitor
+  https://www.hackster.io/porrey/sc-pushbuttonmonitor
   
 */
 
 // ***
-// *** Specifies the pin on which the LED is connected.
+// *** Specifies the pin on which the button is connected.
 // ***
 #define BUTTON_PIN 7
 

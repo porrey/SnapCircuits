@@ -4,8 +4,8 @@
   turns the LED on and off. 
 
   Daniel Porrey
-  Snap Circuits IoT - Project 3
-  https://www.hackster.io/porrey/snapcircuits-prj3
+  Snap Circuits - Push Button LED
+  https://www.hackster.io/porrey/sc-pushbuttonled
   
 */
 
@@ -15,7 +15,7 @@
 #define LED_PIN 2
 
 // ***
-// *** Specifies the pin on which the LED is connected.
+// *** Specifies the pin on which the button is connected.
 // ***
 #define BUTTON_PIN 7
 
