@@ -1,1 +1,1 @@
-# snapcircuits
+# Snap Circuits IoT
