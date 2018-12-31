@@ -16,7 +16,7 @@
 
 // ***
 // *** Specifies the amount of time (in milliseconds)
-// *** to mpause between readings.
+// *** to pause between readings.
 // ***
 #define DEBOUNCE_TIME 50
 
@@ -59,7 +59,7 @@ void loop()
   
   // ***
   // *** Display a message if the button state
-  // *** has cvhanged.
+  // *** has changed.
   // ***
   if (_previousValue != currentValue)
   {
