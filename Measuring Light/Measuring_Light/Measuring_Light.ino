@@ -178,7 +178,7 @@ void DisplayValues(float resistance, float vout, int adc)
 float CalculateVout(float vin, int adc)
 {
   // ***
-  // *** The reading from the ADC can be converted to a voltage
+  // *** The reading from the ADC can be converted to a volatge
   // *** by taking the ADC value and dividing it by the maximum
   // *** ADC value and then multiplying that by the maximum voltage.
   // ***
