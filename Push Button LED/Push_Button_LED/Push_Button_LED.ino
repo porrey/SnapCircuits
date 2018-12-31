@@ -21,7 +21,7 @@
 
 // ***
 // *** Specifies the amount of time (in milliseconds)
-// *** to mpause between readings.
+// *** to pause between readings.
 // ***
 #define DEBOUNCE_TIME 100
 
@@ -56,7 +56,7 @@ void setup()
   _previousValue = digitalRead(BUTTON_PIN);
   
   // ***
-  // *** Ensdure the LED is off
+  // *** Ensure the LED is off
   // ***
   digitalWrite(LED_PIN, HIGH);
 }
@@ -74,7 +74,7 @@ void loop()
   
   // ***
   // *** Display a message if the button state
-  // *** has cvhanged.
+  // *** has changed.
   // ***
   if (_previousValue != currentValue)
   {
