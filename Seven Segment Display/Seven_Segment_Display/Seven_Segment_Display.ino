@@ -10,7 +10,7 @@
 
 // ***
 // *** Specifies the amount of time (in milliseconds)
-// *** to pause between truning the LED's on and off.
+// *** to pause between turning the LEDs on and off.
 // ***
 #define DELAY 1000
 
@@ -42,7 +42,7 @@
 #define IDX_DP 7
 
 // ***
-// *** Defines the charcaters by specifying
+// *** Defines the characters by specifying
 // *** which segment is HIGH or lOW for the
 // *** specific character.
 // ***
@@ -76,7 +76,7 @@ const uint8_t FONT[CHARACTER_COUNT][8] =
 };
 
 // ***
-// *** Index of special characers
+// *** Index of special characters
 // *** in the FONT array
 // ***
 #define ALL_ON 21
@@ -101,7 +101,7 @@ void setup()
   pinMode(PIN_DP, OUTPUT);
   
   // ***
-  // *** LED Test: Turn all LED's
+  // *** LED Test: Turn all LEDs
   // *** on and then off.
   // ***
   DisplayCharacter(ALL_ON);
