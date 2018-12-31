@@ -2,7 +2,7 @@
   Night Light
   Measure the amount of light using a photoresistor and
   tuns the night light on when it is dark and off when
-  thee is enogh natural light detected.
+  thee is enough natural light detected.
 
   Daniel Porrey
   Snap Circuits - Night Light
@@ -16,7 +16,7 @@
 #define RELAY_PIN 13
 
 // ***
-// *** The lower threshod value used to turn the light on.
+// *** The lower threshold value used to turn the light on.
 // *** When the ADC vaue falls below this value the light
 // *** is turned on.
 // ***
@@ -47,7 +47,7 @@ void setup()
   Serial.println();
 
   // ***
-  // *** Set therelay pin up for output
+  // *** Set the relay pin up for output
   // ***
   pinMode(RELAY_PIN, OUTPUT);
 }
